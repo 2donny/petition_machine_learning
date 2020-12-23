@@ -1,3 +1,6 @@
 .idea
 venv
 __pycache__
+chromedriver
+1_200.xlsx
+*.xlsx
